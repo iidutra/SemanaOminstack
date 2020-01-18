@@ -13,5 +13,7 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
-  }
+  },
+  "repository": "https://github.com/iidutra/SemanaOminstack.git",
+  "author": "iidutra <igordutra07@gmail.com>"
 }
